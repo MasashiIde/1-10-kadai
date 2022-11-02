@@ -77,10 +77,11 @@ footer{
 
   .box{
     width: 90%;
+    margin: 0 5% 20px 5%;
   }
 
-  .box-img1{
-    width: 100%;
+  .box:last-child{
+    margin-bottom: 0;
   }
 
 }
